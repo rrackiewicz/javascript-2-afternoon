@@ -158,6 +158,8 @@ function makePerson(name, birthday, ssn) {
   }
 }
 
+//
+
 
 ////////// PROBLEM 7 //////////
 
